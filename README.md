@@ -3,3 +3,5 @@
 Changed in IntelliJ again
 
 Changed on GitHub
+
+Changed on IntelliJ again
